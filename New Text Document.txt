@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="secreption" content=" this is osama's personal website">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Osama's Personal Site</title>
+</head>
+<body>
+    
+    <img src="images/osama.jpg" alt="Osama's photo" style="border-radius: 50%;" width="200px" height="200px">
+    <h1>Osama Alawneh</h1>
+    <p> <em>Student in <strong>JUST university</strong> with grade of 3.01.</em></p>
+    <p>I am Web Developer and student . And i love Gaming.</p>
+    <hr size="3" noshade>
+    <h3>Schools</h3>
+
+    <ul>
+        
+        <li>Al leoaa School</li>
+        <ul><li>Teacher Zahera</li></ul>
+        <li>Mahmood Al Hasan School</li>
+        <ul><li>Teacher loai Alawneh</li></ul>
+        <li>Comprehensive High School For Boys</li>
+        <ul><li>Teacher Bassam Al Quraan</li></ul>
+        <li><a href="https://www.just.edu.jo/">JUST university</a></li>
+        <ul><li>Doctor Mustafa Radaidah</li></ul>
+    </ul>
+
+    <h3>My Hobbies</h3>
+
+    <ol>
+        <li>Gaming.</li>
+        <li>Coding.</li>
+        <li>Having Strong Personality.</li>
+    </ol>
+
+
+    <h3>Gaming Exe</h3>
+    <table border="1">
+       <thead>
+           <tr>
+               <th>Platform</th>
+               <th>Games I Enjoy The Most</th>
+           </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>PC</td>
+                <td>The Lord Of The Ring </td>
+            </tr>
+
+            <tr>
+                <td>PS4</td>
+                <td>Shadow Of War</td>
+            </tr>
+
+        </tbody>
+
+    </table>
+
+
+    <a href="Contact.html">Contact Me.</a>
+
+
+
+
+    <hr size="3" noshade>
+    
+</body>
+</html>
